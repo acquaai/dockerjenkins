@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM ubuntu:16.04
 MAINTAINER Acqua Young "acqua@example.com"
 ENV REFRESHED_AT 2018-01-22
 RUN apt-get update
